@@ -1,49 +1,82 @@
-FIFA World Cup Analytics Dashboard (1930-2026)
-Project Overview
+# FIFA World Cup Analytics Dashboard (1930-2026)
+
+## Project Overview
 
 This Power BI dashboard provides historical and predictive insights into FIFA World Cup tournaments from 1930 to 2026.
 
-The dashboard analyzes:
+## Dashboard Preview
 
-Total World Cups
-Total Matches
-Total Goals
-Average Attendance
-Host Countries
-Tournament Winners
-Match Schedule Timeline
-Stadium Distribution
-Stage-wise Match Analysis
-Tools Used
-Power BI
-DAX
-Power Query
-Excel
-Data Modeling
-Key Features
-KPI Cards
-Total World Cups
-Total Matches
-Total Goals
-Average Attendance
-Host Countries
-Visualizations
-Country-wise Titles Analysis
-Attendance vs Goals Trend
-Match Distribution by Stage
-Host Country Map
-Match Schedule Timeline
-Stadium Distribution Treemap
-Dashboard Preview
-<img width="2748" height="1554" alt="image" src="https://github.com/user-attachments/assets/edc8afcf-f5ef-4d70-a634-f022ecf70190" />
-Files Included
-PBIX Dashboard File
-Source Dataset
-Dashboard PDF
-Dashboard Screenshot
-Author
+![Dashboard](fifa%20dashboard%20project.png)
 
-Jatin Bangali
+---
 
-LinkedIn:
-linkedin.com/in/jatinbangali
+## Key Metrics
+
+- 22 FIFA World Cups
+- 964 Total Matches
+- 2,720 Total Goals
+- 42,729 Average Attendance
+- 104 Scheduled Matches (2026)
+- 3 Host Countries (2026)
+
+---
+
+## Features
+
+### KPI Cards
+
+- Total World Cups
+- Total Matches
+- Total Goals
+- Average Attendance
+- Host Countries
+
+### Interactive Filters
+
+- Stage
+- Stadium
+- Year
+- Match Date
+- Host Country
+- Champion Country
+
+### Visualizations
+
+- Most Successful Countries
+- Attendance vs Goals Trend
+- Match Distribution by Stage
+- Host Countries Map
+- Match Schedule Timeline
+- Stadium Distribution Treemap
+
+---
+
+## Tools Used
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+---
+
+## Files Included
+
+| File | Description |
+|------|-------------|
+| fifa bi project.pbix | Power BI Dashboard |
+| FIFA_WC2026_Schedule.xlsx | Source Dataset |
+| fifa bi project.pdf | Dashboard PDF |
+| fifa dashboard project.png | Dashboard Screenshot |
+
+---
+
+## Author
+
+### Jatin Bangali
+
+**LinkedIn:**  
+https://linkedin.com/in/jatinbangali
+
+**GitHub:**  
+https://github.com/jatinbangali
