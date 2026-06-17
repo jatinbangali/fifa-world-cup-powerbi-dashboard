@@ -8,8 +8,8 @@ The objective of this project is to analyze FIFA World Cup tournaments from 1930
 - Goal-scoring patterns
 - Attendance analysis
 - Host country impact
-- Match distribution for FIFA World Cup 2026****
-- 
+- Match distribution for FIFA World Cup 2026
+  
 ## Project Overview
 
 This Power BI dashboard provides historical and predictive insights into FIFA World Cup tournaments from 1930 to 2026.
