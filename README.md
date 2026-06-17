@@ -16,7 +16,7 @@ This Power BI dashboard provides historical and predictive insights into FIFA Wo
 
 ## Dashboard Preview
 
-![Dashboard](fifa%20dashboard%20project.png)
+<img width="2774" height="1596" alt="image" src="https://github.com/user-attachments/assets/bce32063-0f47-4746-bab6-05f0f0dfac6b" />
 
 ---
 
