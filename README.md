@@ -1,5 +1,15 @@
 # FIFA World Cup Analytics Dashboard (1930-2026)
+## Business Problem
 
+The objective of this project is to analyze FIFA World Cup tournaments from 1930 to 2026 and provide insights into:
+
+- Historical tournament performance
+- Winning trends
+- Goal-scoring patterns
+- Attendance analysis
+- Host country impact
+- Match distribution for FIFA World Cup 2026****
+- 
 ## Project Overview
 
 This Power BI dashboard provides historical and predictive insights into FIFA World Cup tournaments from 1930 to 2026.
@@ -20,6 +30,14 @@ This Power BI dashboard provides historical and predictive insights into FIFA Wo
 - 3 Host Countries (2026)
 
 ---
+
+## Key Insights
+
+- Brazil has won the FIFA World Cup 5 times.
+- Average attendance peaked above 68,000 spectators.
+- The 2026 tournament will feature 104 matches.
+- USA, Canada, and Mexico are hosting the 2026 tournament.
+- Group Stage accounts for approximately 69% of scheduled matches.
 
 ## Features
 
